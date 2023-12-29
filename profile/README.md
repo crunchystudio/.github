@@ -2,6 +2,8 @@
 
 This is Quarter28. We power software to innovate the future.
 
+Our name is pronounced quarter-to-eight, but you can say quarter-twenty-eight if you insist...
+
 <!--
 
 **Here are some ideas to get you started:**
